@@ -32,7 +32,9 @@ The dataset contains user demographics, listening behavior, subscription details
 - User behavior varies significantly across age groups
 
 ## Dashboard Preview
-![Spotify Analytics Dashboard](https://github.com/user-attachments/assets/f342013c-c928-4bc6-b04c-7c518ba832cc)
+![Spotify Analytics Dashboard](dashboard.png)
+<img width="1835" height="1031" alt="image" src="https://github.com/user-attachments/assets/362c515e-744a-4ef0-8a50-1470fad3344b" />
+
 
 
 
