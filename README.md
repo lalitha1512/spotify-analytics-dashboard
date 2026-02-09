@@ -34,7 +34,5 @@ The dataset contains user demographics, listening behavior, subscription details
 ## Dashboard Preview
 ![Spotify Analytics Dashboard](https://github.com/user-attachments/assets/f342013c-c928-4bc6-b04c-7c518ba832cc)
 
-## Future Improvements
-- Add predictive churn modeling
-- Integrate real-time data
-- Expand user segmentation analysis
+
+
