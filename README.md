@@ -32,7 +32,7 @@ The dataset contains user demographics, listening behavior, subscription details
 - User behavior varies significantly across age groups
 
 ## Dashboard Preview
-     <img width="1836" height="1031" alt="Screenshot 2026-02-09 130222" src="https://github.com/user-attachments/assets/f342013c-c928-4bc6-b04c-7c518ba832cc" />
+![Spotify Analytics Dashboard](https://github.com/user-attachments/assets/f342013c-c928-4bc6-b04c-7c518ba832cc)
 
 ## Future Improvements
 - Add predictive churn modeling
