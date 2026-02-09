@@ -33,7 +33,7 @@ The dataset contains user demographics, listening behavior, subscription details
 
 ## Dashboard Preview
 ![Spotify Analytics Dashboard](dashboard.png)
-<img width="1835" height="1031" alt="image" src="https://github.com/user-attachments/assets/362c515e-744a-4ef0-8a50-1470fad3344b" />
+
 
 
 
